@@ -22,7 +22,6 @@ Waste Route Optimizer is a backend-focused optimization project designed to comp
 
 ## Future Enhancements
 - Machine Learning–based route prediction
-- JNI integration for Java applications
 - Real-time data ingestion
 - Frontend dashboard for live monitoring
 
