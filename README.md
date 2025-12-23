@@ -1,0 +1,1 @@
+# Waste Route Optimizer — Full Mode (A* + MongoDB Atlas)\nSee README inside zip for usage.

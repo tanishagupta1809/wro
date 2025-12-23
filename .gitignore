@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.json
+
+# Build artifacts
+build/
+*.so
+*.a
+*.bin
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.qtcreator/
+__pycache__/
+
+# Python
+*.pyc
+
+# PDFs & reports
+*.pdf
+
